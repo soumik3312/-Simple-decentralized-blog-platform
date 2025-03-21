@@ -35,3 +35,8 @@ Our vision is to empower users with a fully decentralized blogging experience wh
 0x4F457c363977E29b614b0eacf4496cCcaa355b40
 ![image](https://github.com/user-attachments/assets/b3bc7f22-5886-4d53-a8e8-673f212f73d6)
 
+## Frontend
+![image](https://github.com/user-attachments/assets/cc4b524f-4037-42b7-9f5b-68891fe915c2)
+![image](https://github.com/user-attachments/assets/68949c4c-321d-44fa-a994-d87daffa4151)
+
+
